@@ -63,15 +63,9 @@ We still call the isFirstLaunch function before as a seperation of concerns, sin
 
 ## Features
 
-<<<<<<< HEAD
 - [x] Check if it's the first launch
 - [x] Schedule a StoreKit Review after a certain amount of days
 - [ ] Load a different ViewController for onboarding process
-=======
-- [checkbox:checked] Check if it's the first launch
-- [checkbox:checked Schedule a StoreKit Review after a certain amount of days
-- [checkbox:unchecked Load a different ViewController for onboarding process
->>>>>>> 1d68694... Mardown fixes 🙈
 
 
 ## Author
